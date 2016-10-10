@@ -19,7 +19,7 @@
     root.returnExports = factory(root.jQuery);
   }
 }(this, function ($) {
-  var JOYRIDE_VERSION = '3.0.0';
+  var JOYRIDE_VERSION = ',';
   /**
    * Joyride module.
    * @module foundation.joyride
